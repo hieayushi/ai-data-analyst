@@ -71,6 +71,8 @@ ai-analyst/
 
 ### 1. Backend
 
+Use Python 3.11 for the backend environment.
+
 ```bash
 cd backend
 python -m venv venv
