@@ -1,6 +1,8 @@
 # Environments
 .env
 .venv
+.venv/
+venv/
 
 # Data and Cache
 backend/data/cache.json
